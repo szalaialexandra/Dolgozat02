@@ -22,14 +22,13 @@ class Tombsug {
 		int oldal = sc.nextInt();
 		
 		System.out.print("Alfa szog: ");
-		double alfa_szog = sc.nextDouble();
+		int alfa_szog = sc.nextInt();
 		
-		double sugar = 
-		Math.pow(sugar);
-		Math.sin();
-		alfa_szog;
+		int sugar =
+		1/2 * oldal;
+		Math.sin(alfa_szog);
 		
-		System.out.println("Sugara: ", sugar);
+		System.out.println("Sugara: " + sugar);
 		
 		
 		
