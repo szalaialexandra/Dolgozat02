@@ -16,13 +16,26 @@ class Tombsug {
 		System.out.println("Feladat 0312");
 		System.out.println("Szoft I N");
 		System.out.println("");
-		Scanner sc = new Scanner(System.in);
 		
+		Scanner sc = new Scanner(System.in);
 		System.out.print("Oldal: ");
 		int oldal = sc.nextInt();
 		
 		System.out.print("Alfa szog: ");
-		int alfa_szog = sc.nextInt();
+		double alfa_szog = sc.nextDouble();
+		
+		double sugar = 
+		Math.pow(sugar);
+		Math.sin();
+		alfa_szog;
+		
+		System.out.println("Sugara: ", sugar);
+		
+		
+		
+		
+		
+		
 		
 		
 		
